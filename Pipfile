@@ -9,6 +9,9 @@ openai = "*"
 langchain = "*"
 streamlit-chat = "*"
 openpyxl = "*"
+beautifulsoup4 = "*"
+pdfplumber = "*"
+tiktoken = "*"
 
 [dev-packages]
 ipykernel = "*"
