@@ -133,3 +133,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Local settings
+settings.json
+llm-agent-app.2023-09-16.private-key.pem
