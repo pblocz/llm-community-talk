@@ -12,6 +12,8 @@ openpyxl = "*"
 beautifulsoup4 = "*"
 pdfplumber = "*"
 tiktoken = "*"
+colorama = "*"
+pipfile = "*"
 
 [dev-packages]
 ipykernel = "*"
